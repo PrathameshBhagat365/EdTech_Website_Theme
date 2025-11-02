@@ -22,30 +22,6 @@ Lightweight code structure and modular files make it simple for developers to mo
 Cross-Browser Compatible
 Tested across major browsers to ensure consistent performance.
 
-**Folder Structure**
-
-The theme follows the standard WordPress theme hierarchy.
-
-EdTech_Website_Theme/
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── template-parts/
-│
-├── style.css
-├── functions.php
-├── index.php
-├── header.php
-├── footer.php
-├── page.php
-├── single.php
-├── archive.php
-├── screenshot.png
-└── README.md
-
 
 **Installation Guide**
 
