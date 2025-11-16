@@ -1,1 +1,8 @@
+<section class="hero-section">
+  <div class="container">
+    <h1>Welcome to Our Educational Platform</h1>
+    <p>Learn new skills, expand your knowledge, and grow your career.</p>
+    <a href="/courses" class="btn">Browse Courses</a>
+  </div>
+</section>
 
