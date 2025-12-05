@@ -1,40 +1,38 @@
-**Overview**
-EdTech Website Theme is a custom WordPress theme built specifically for educational institutions such as schools, universities, and online learning platforms.
-The theme is developed using the classic PHP-based WordPress structure with full Gutenberg (block editor) compatibility, ensuring a blend of flexibility and modern content editing capabilities.
+# EduLearn Block Theme
 
-**Key Features**
+A modern WordPress block theme designed for educational institutions, online courses, and e-learning platforms.
 
-Custom Post Type: Courses
-Allows administrators to create, edit, and display courses directly from the WordPress dashboard.
+## Features
 
-Responsive Layout
-Fully optimized for all screen sizes and devices, ensuring accessibility and a seamless user experience.
+- Full Site Editing (FSE) support
+- Custom color palette optimized for education
+- Responsive design
+- Multiple template options
+- Custom block patterns
+- Built-in header and footer templates
 
-Gutenberg-Ready
-Compatible with the WordPress block editor, enabling easy page building using visual blocks.
+## Installation
 
-SEO-Friendly
-Built following best SEO practices with clean and semantic code to improve visibility on search engines.
+1. Download the theme ZIP file
+2. Go to WordPress Admin > Appearance > Themes
+3. Click "Add New" then "Upload Theme"
+4. Choose the ZIP file and click "Install Now"
+5. Activate the theme
 
-Easy to Customize
-Lightweight code structure and modular files make it simple for developers to modify templates and styles.
+## Customization
 
-Cross-Browser Compatible
-Tested across major browsers to ensure consistent performance.
+This theme uses theme.json for configuration. You can customize:
 
+- Colors in Settings > Appearance
+- Typography in the Site Editor
+- Layout using block patterns
+- Templates in the Template Editor
 
-**Installation Guide**
+## Support
 
-Download the latest version of the theme or clone this repository.
-Example:
-git clone https://github.com/YOUR-USERNAME/EdTech_Website_Theme.git
+For support and documentation, visit: https://example.com/edulearn-docs
 
-Move the folder into your WordPress installation under:
-wp-content/themes/
+## License
 
-Log in to the WordPress admin dashboard and navigate to:
-Appearance → Themes
+GNU General Public License v2 or later
 
-Locate EdTech Website Theme and click Activate.
-
-Once activated, you can start customizing your site, create pages, and add content.
