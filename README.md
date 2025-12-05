@@ -30,7 +30,7 @@ This theme uses theme.json for configuration. You can customize:
 
 ## Support
 
-For support and documentation, visit: https://example.com/edulearn-docs
+For support and documentation, Call @ 9158945607
 
 ## License
 
